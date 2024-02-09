@@ -1,0 +1,274 @@
+{
+  "empresas": [
+      {
+          "nome": "KESIA LORRANY PORTO DE SOUZA (BR/RS)",
+          "processos": [
+              {
+                  "numero": 933181590,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "Nuvox Pen",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Publicação de pedido de registro para oposição (exame formal concluído)",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "MARCELO MOREIRA DE ALMEIDA (BR/SP)",
+          "processos": [
+              {
+                  "numero": 933209371,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "ESCOLAPLAY",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Publicação de pedido de registro para oposição (exame formal concluído)",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "VERIN COMÉRCIO DE EQUIPAMENTOS CONTRA INCÊNDIO LTDA-EPP (BR/SP)",
+          "processos": [
+              {
+                  "numero": 933269005,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "Verin",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Publicação de pedido de registro para oposição (exame formal concluído)",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "WISBECK COMPANY LTDA (BR/SC)",
+          "processos": [
+              {
+                  "numero": 933273819,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "WSC PRO AUDIO",
+                  "rpi": 2770,
+                  "responsavel": "Alan Wortmann",
+                  "descricao": "Publicação de pedido de registro para oposição (exame formal concluído)",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "LUZIA HELENA COSTA SILVA (BR/SP)",
+          "processos": [
+              {
+                  "numero": 923810641,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "REDUCI FIT",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Deferimento de pedido",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "MINERAL CIRCLES BEARINGS FZCO (AE)",
+          "processos": [
+              {
+                  "numero": 927244179,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "MCB",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Deferimento de pedido",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "ZHEJIANG QIANJIANG MOTORCYCLE CO., LTD (CN)",
+          "processos": [
+              {
+                  "numero": 928483983,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "QJTEC",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Deferimento de pedido",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "L&amp;K BIOMED CO., LTD. (KR)",
+          "processos": [
+              {
+                  "numero": 928204618,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "PathLoc",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Concessão de registro",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "TOTAL BIOTECNOLOGIA INDÚSTRIA E COMÉRCIO S/A",
+          "processos": [
+              {
+                  "numero": 925849324,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "BIOBEST",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Deferimento da petição",
+                  "complemento": " Protocolo: 850230624409 - 20/12/2023 - 3491; Requerente: TOTAL BIOTECNOLOGIA INDÚSTRIA E COMÉRCIO S/A (BR/PR); Procurador: Veirano Advogados; Cedente: AQUA DO BRASIL INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS AGRÍCOLAS LTDA (BR/SP); Cessionário: TOTAL BIOTECNOLOGIA INDÚSTRIA E COMÉRCIO S/A;"
+              }
+          ]
+      },
+      {
+          "nome": "Laltitude, LLC (US)",
+          "processos": [
+              {
+                  "numero": 501700520,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "PICASSOTILES",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Notificação de recurso",
+                  "complemento": "Detalhes do despacho: Recurso contra o indeferimento.\nDecisão recorrida: Indeferimento de designação Notificada 07/11/2023 Afeta Processo  501700520 (PICASSOTILES)\n Protocolo: 850230579566 - 27/11/2023 - 30001; Requerente: LALTITUDE, LLC (US); Procurador: APEX INTELLECTUAL PROPERTY SERVICOS ADMINISTRATIVOS LTDA;"
+              }
+          ]
+      },
+      {
+          "nome": "SERILON BRASIL LTDA (BR/PR)",
+          "processos": [
+              {
+                  "numero": 932193072,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "ALODERMA",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Notificação de oposição",
+                  "complemento": "Petições: 850240000185 de 02/01/2024\n"
+              }
+          ]
+      },
+      {
+          "nome": "SÔNIA MARIA QUIRINO MONTEIRO (BR/MA)",
+          "processos": [
+              {
+                  "numero": 932320414,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "Alô Maria",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Notificação de oposição",
+                  "complemento": "Petições: 850240007156 de 08/01/2024\n"
+              }
+          ]
+      },
+      {
+          "nome": "ALYNNE LETÍCIA SILVA PINHEIRO (BR/MA)",
+          "processos": [
+              {
+                  "numero": 932325556,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "AM ALÔ MARIA",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Notificação de oposição",
+                  "complemento": "Petições: 850240007320 de 08/01/2024\n"
+              }
+          ]
+      },
+      {
+          "nome": "GFM GMBH TRADEMARKS (DE)",
+          "processos": [
+              {
+                  "numero": 501672604,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "AUDRICK",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Concessão de registro em designação",
+                  "complemento": "(N/A)"
+              }
+          ]
+      },
+      {
+          "nome": "Repairify, Inc. (US)",
+          "processos": [
+              {
+                  "numero": 501614982,
+                  "tipo_de_despacho": "DESPACHO REGULAR",
+                  "data": "06/02/2024",
+                  "marca": "ASTECH",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Anotação de alteração de nome e/ou endereço em designação",
+                  "complemento": "Detalhes do despacho: Sede alterada.\n Requerente: Repairify, Inc.; Procurador: Matos & Associados - Advogados;"
+              }
+          ]
+      },
+      {
+          "nome": "ROSIANI CRISTINA DE ALENCAR SOLA 01753407907 (BR/SP)",
+          "processos": [
+              {
+                  "numero": 925797073,
+                  "tipo_de_despacho": "CITAÇÃO NO COMPLEMENTO DE DESPACHO DE OUTROS PROCESSOS",
+                  "data": "06/02/2024",
+                  "marca": "AL",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Indeferimento de pedido",
+                  "complemento": "Detalhes do despacho: Fica ainda consignada, a título de subsídio a eventual recurso, a identificação das seguintes anterioridades, ainda não decididas, consideradas igualmente colidentes com o presente sinal: 925797073 (AL) e 926633449 (AL). A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo  918846013 (AL).\n"
+              }
+          ]
+      },
+      {
+          "nome": "TATIANA GAZ VELLA (BR/SP)",
+          "processos": [
+              {
+                  "numero": 926633449,
+                  "tipo_de_despacho": "CITAÇÃO NO COMPLEMENTO DE DESPACHO DE OUTROS PROCESSOS",
+                  "data": "06/02/2024",
+                  "marca": "AL",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Indeferimento de pedido",
+                  "complemento": "Detalhes do despacho: Fica ainda consignada, a título de subsídio a eventual recurso, a identificação das seguintes anterioridades, ainda não decididas, consideradas igualmente colidentes com o presente sinal: 925797073 (AL) e 926633449 (AL). A marca reproduz ou imita os seguintes registros de terceiros, sendo, portanto, irregistrável de acordo com o inciso XIX do Art. 124 da LPI: Processo  918846013 (AL).\n"
+              }
+          ]
+      },
+      {
+          "nome": "GUANGDONG DEERMA TECHNOLOGY CO., LTD. (CN)",
+          "processos": [
+              {
+                  "numero": 919909540,
+                  "tipo_de_despacho": "CITAÇÃO NO COMPLEMENTO DE DESPACHO DE OUTROS PROCESSOS",
+                  "data": "06/02/2024",
+                  "marca": "deerma",
+                  "rpi": 2770,
+                  "responsavel": "Rúbia Soares",
+                  "descricao": "Requerimento provido (nulo o registro)",
+                  "complemento": "Detalhes do despacho: Artigo 124, inciso XIX, da LPI. (Regs. nºs   919909442 e 919909540)\n Protocolo: 850210394488 - 13/09/2021 - 3361; Requerente: GUANGDONG DEERMA TECHNOLOGY CO., LTD. (CN); Procurador: Vilage Marcas e Patentes  Ltda;"
+              }
+          ]
+      }
+  ]
+}
